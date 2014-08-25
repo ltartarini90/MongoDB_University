@@ -1,1 +1,1 @@
-MongoDB for Java Developers
+MongoDB University Courses
